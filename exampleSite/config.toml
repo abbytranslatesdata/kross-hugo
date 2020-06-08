@@ -1,4 +1,4 @@
-baseURL = "http://abbytranslatesdata.com"
+baseURL = "http://abbytranslatesdata.workers.dev"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
